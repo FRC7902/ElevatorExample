@@ -43,7 +43,7 @@ public final class Constants {
     public static final double MAX_VELOCITY =
             2 / METERS_PER_MOTOR_ROTATION;
     // rotations per second
-    public static final  double  MOTION_MAGIC_ACCEL = 160;
+    public static final double MOTION_MAGIC_ACCEL = 160;
 
     // PID Constants
     public static double PID_P = 20;
